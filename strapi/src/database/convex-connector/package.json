@@ -1,0 +1,13 @@
+{
+  "name": "strapi-connector-convex",
+  "version": "1.0.0",
+  "description": "Strapi database connector for Convex",
+  "main": "index.ts",
+  "dependencies": {
+    "convex": "^1.0.0",
+    "@strapi/database": "^4.0.0"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.0.0"
+  }
+} 
